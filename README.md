@@ -1,5 +1,4 @@
-# <ここにアプリ名を入力>
-eco.share
+# eco.share
 
 ## サイト概要
 ecoに関連する自分のお気に入りのお店や商品を記録でき、他の人が閲覧できるようにすることで、間接的にいいものをおすすめできるようになっている。
@@ -25,7 +24,8 @@ ecoをシェアし、使う人によって本当にいい企業やいい商品�
 
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1UgK-6l38k5T81XjcTIn7CHnGRkB_sBXS5xQWAVhWmks/edit#gid=0>
+[チャレンジ要素一覧]
+https://docs.google.com/spreadsheets/d/1PnE-g1G895zYof7Iajy2MCNrkDgEoPMkKtqmaZVemWY/edit?usp=sharing
 
 ## 開発環境
 - OS：Linux(CentOS)
