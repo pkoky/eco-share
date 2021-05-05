@@ -215,7 +215,7 @@
                     <mxGeometry x="40" width="140" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="85" value="relationship" style="shape=table;html=1;whiteSpace=wrap;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;" vertex="1" parent="1">
-                    <mxGeometry x="-270" y="160" width="180" height="210" as="geometry"/>
+                    <mxGeometry x="-270" y="190" width="180" height="210" as="geometry"/>
                 </mxCell>
                 <mxCell id="86" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;top=0;left=0;bottom=1;right=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="85">
                     <mxGeometry y="30" width="180" height="30" as="geometry"/>
